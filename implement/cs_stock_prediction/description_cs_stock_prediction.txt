@@ -1,0 +1,6 @@
+$ python cs_stock_prediction.py
+
+# try to find some relations between history stock-data and future.
+# using past stock data (stock price, n-day moving average and n-day moving average bias) to predict future stock price.
+
+# to do ... 
