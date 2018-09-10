@@ -1,6 +1,6 @@
 ﻿### How to run
 ```
-python cs1_line_regression.py
+$ python cs1_line_regression.py
 ```
 
 ### Description

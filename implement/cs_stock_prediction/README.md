@@ -1,6 +1,6 @@
 ﻿### How to run
 ```
-python cs_stock_prediction.py
+$ python cs_stock_prediction.py
 ```
 
 ### Description
